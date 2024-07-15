@@ -5,3 +5,8 @@ data_warning_analysis output:
 Total tokens in the dataset: 9279
 
 Warnings:
+
+cost_estimation output:
+Total tokens in the dataset: 9279
+Estimated cost for fine-tuning: $0.28
+Estimated cost for inference: $0.02

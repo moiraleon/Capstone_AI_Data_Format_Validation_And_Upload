@@ -1,3 +1,4 @@
+[
 {
     "messages": [
         {
@@ -80,7 +81,7 @@
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -150,9 +151,7 @@
                     ]
                 },
                 "references": [
-                    "International Dyslexia Association. (n.d.). Dyslexia Basics. Retrieved from https://dyslexiaida.org/dyslexia-basics/ - This source provided foundational understanding of dys
-
-lexia and general strategies for accommodating dyslexic students.",
+                    "International Dyslexia Association. (n.d.). Dyslexia Basics. Retrieved from https://dyslexiaida.org/dyslexia-basics/ - This source provided foundational understanding of dyslexia and general strategies for accommodating dyslexic students.",
                     "Learning Disabilities Association of America. (n.d.). Types of Learning Disabilities. Retrieved from https://ldaamerica.org/types-of-learning-disabilities/ - This guide helped understand various learning disabilities and the appropriate modifications needed.",
                     "Smith, J. D. (2019). Teaching Students with Learning Disabilities: A Practical Guide for Every Teacher. New York, NY: Routledge - This book provided practical tips and strategies for teaching students with different learning disabilities.",
                     "Jones, A. B., & Roberts, C. D. (2021). Effective methods for teaching science to students with dyslexia. Journal of Science Education, 25(3), 214-230. doi:10.1007/s11858-020-01145-8 - This journal article offered specific strategies for teaching science concepts to students with dyslexia.",
@@ -162,7 +161,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -242,7 +241,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -303,9 +302,7 @@ lexia and general strategies for accommodating dyslexic students.",
                         "Use large, clear fonts and visual aids.",
                         "Provide written instructions and visual aids.",
                         "Allow extra time for activities.",
-                        "Incorporate
-
- multisensory learning techniques such as tactile activities."
+                        "Incorporate multisensory learning techniques such as tactile activities."
                     ],
                     "auditory_processing_disorder": [
                         "Provide written instructions and visual aids.",
@@ -324,7 +321,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -404,7 +401,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -464,9 +461,7 @@ lexia and general strategies for accommodating dyslexic students.",
                     "ADHD": [
                         "Keep sessions short with frequent breaks.",
                         "Allow movement during activities.",
-                        "Maintain a structured environment with predictable routines
-
-.",
+                        "Maintain a structured environment with predictable routines.",
                         "Use digital tools to maintain engagement."
                     ],
                     "dyscalculia": [
@@ -486,7 +481,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -566,7 +561,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -647,7 +642,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -726,7 +721,7 @@ lexia and general strategies for accommodating dyslexic students.",
             }
         }
     ]
-  }
+  },
   {
     "messages": [
         {
@@ -786,9 +781,7 @@ lexia and general strategies for accommodating dyslexic students.",
                         "Use large, clear fonts and visual aids.",
                         "Provide printed labels and visual aids.",
                         "Allow extra time for activities.",
-                        "Incorporate multisensory learning techniques such as tactile
-
- activities."
+                        "Incorporate multisensory learning techniques such as tactile activities."
                     ],
                     "ADHD": [
                         "Keep sessions short with frequent breaks.",
@@ -808,3 +801,4 @@ lexia and general strategies for accommodating dyslexic students.",
         }
     ]
   }
+]
